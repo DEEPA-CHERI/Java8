@@ -2,3 +2,23 @@ CustomComparator.java
  CustomComparator
 TestCollection.java
  TestCollection
+LambdaExpressions.java
+ LambdaExpressions
+ LambdaExpressions$1
+Printer.java
+ Printer
+Sort.java
+ Sort
+Greeting.java
+ Greeting
+Person.java
+ Person
+TypeInferenceExample.java
+ TypeInferenceExample
+ TypeInferenceExample$StringUtil
+FilterCondition.java
+ FilterCondition
+PersonTest.java
+ PersonTest
+ PersonTest$1
+ PersonTest$2

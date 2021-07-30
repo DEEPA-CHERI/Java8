@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/GridCellEditorTextField">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Condition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/FilterCondition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Greeting.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/LambdaExpressions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Person.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/PersonTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Printer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Sort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/TypeInferenceExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/augmentation-content-validator/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/augmentation-content-validator/src/main/java/com/gap/augmentation/contentvalidator/consumer/CcConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/augmentation-content-validator/src/main/java/com/gap/augmentation/contentvalidator/consumer/PriceConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/augmentation-content-validator/src/main/java/com/gap/augmentation/contentvalidator/consumer/SkuConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/augmentation-content-validator/src/main/java/com/gap/augmentation/contentvalidator/consumer/StyleConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/augmentation-content-validator/src/main/java/com/gap/augmentation/contentvalidator/responseDto/KafkaStatsResponseDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/augmentation-content-validator/src/main/java/com/gap/augmentation/contentvalidator/service/CcsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/augmentation-content-validator/src/main/java/com/gap/augmentation/contentvalidator/service/KafkaService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/augmentation-content-validator/src/main/java/com/gap/augmentation/contentvalidator/service/PriceContentValidatorService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/augmentation-content-validator/src/main/java/com/gap/augmentation/contentvalidator/service/StatsCounterService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/augmentation-content-validator/src/main/java/com/gap/augmentation/contentvalidator/service/StyleContentValidatorService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/augmentation-content-validator/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/catalogsync/CatalogSyncModel/src/com/gap/gid/catalog/service/dto/ProductStyleDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/generic-cc-processor/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/generic-cc-processor/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/generic-cc-processor/src/main/java/com/gap/augmentation/CcProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/generic-cc-processor/src/test/resources/augmented_product_cc.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/generic-cc-processor/src/test/resources/internal_product_cc.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/generic-style-processor/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/generic-style-processor/src/main/java/com/gap/augmentation/StyleProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/generic-style-processor/src/test/java/com/gap/augmentation/StyleProcessorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/hbaseconnector/HBaseConnector/src/main/java/com/gap/augmentation/constant/PricingConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/hbaseconnector/HBaseConnector/src/main/java/com/gap/augmentation/enums/ContentStatus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/hbaseconnector/HBaseConnector/src/main/java/com/gap/augmentation/mapred/TableHBasePriceDataExtractDriver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/hbaseconnector/HBaseConnector/src/main/java/com/gap/augmentation/mapred/driver/DeltaDriver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/hbaseconnector/HBaseConnector/src/main/java/com/gap/augmentation/mapred/driver/DeltaPriceDataDriver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/hbaseconnector/HBaseConnector/src/main/java/com/gap/augmentation/mapred/driver/DeltaProductDataDriver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/hbaseconnector/HBaseConnector/src/main/java/com/gap/augmentation/mapred/mapper/PriceExtractMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/hbaseconnector/HBaseConnector/src/main/java/com/gap/augmentation/mapred/mapper/ProductObjectCreator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/db/8fb3536f-ae9b-40e4-b007-ac064cd63476/console_1.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

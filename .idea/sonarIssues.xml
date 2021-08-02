@@ -8,12 +8,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gap.augmentation/augmented-product-schema/1.61.0/f61a9dcf59d029af018e5a8109c2339b268abfe6/augmented-product-schema-1.61.0.jar!/com/gap/avro/productcatalog/augmentation/cc/IndividualMedia.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gap.augmentation/augmented-product-schema/1.61.0/f61a9dcf59d029af018e5a8109c2339b268abfe6/augmented-product-schema-1.61.0.jar!/com/gap/avro/productcatalog/augmentation/cc/IndividualMediaV2.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gap.augmentation/augmented-product-schema/1.61.0/f61a9dcf59d029af018e5a8109c2339b268abfe6/augmented-product-schema-1.61.0.jar!/com/gap/avro/productcatalog/augmentation/style/ProductTagType.class">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/Condition.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/FilterCondition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/FunctionInterfaceTest.java">
           <value>
             <set />
           </value>
@@ -108,7 +128,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/augmentation-content-validator/src/main/java/com/gap/augmentation/contentvalidator/utils/BrandMarket.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../workspace/Gap/augmentation-content-validator/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/augmentation-content-validator/src/main/resources/test.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/augmentation-content-validator/src/main/resources/testcc.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/augmentation-content-validator/src/main/resources/testsku.json">
           <value>
             <set />
           </value>
@@ -158,6 +198,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/hbaseconnector/HBaseConnector/src/main/java/com/gap/augmentation/constant/BusinessUnits.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../workspace/Gap/hbaseconnector/HBaseConnector/src/main/java/com/gap/augmentation/constant/PricingConstants.java">
           <value>
             <set />
@@ -188,12 +233,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/hbaseconnector/HBaseConnector/src/main/java/com/gap/augmentation/mapred/mapper/DataExtractAndPublishService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../workspace/Gap/hbaseconnector/HBaseConnector/src/main/java/com/gap/augmentation/mapred/mapper/PriceExtractMapper.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../workspace/Gap/hbaseconnector/HBaseConnector/src/main/java/com/gap/augmentation/mapred/mapper/ProductObjectCreator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/hbaseconnector/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/db/038d09c1-fb49-4493-83f9-cc3fcbbe3224/console_1.sql">
           <value>
             <set />
           </value>

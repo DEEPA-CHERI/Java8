@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
-import java.util.concurrent.locks.Condition;
+import java.util.function.Consumer;
 
 public class PersonTest {
 
@@ -22,10 +22,15 @@ public class PersonTest {
             }
         } );
         printAll(people);
-        printConditionally( people, new FilterCondition() {
+        performConditionally( people, new FilterCondition() {
             @Override
             public boolean test( Person p ) {
-               return  p.getFirstName().startsWith( "A" );
+                return p.getFirstName().startsWith( "A" );
+            }
+        }, new Consumer<Person>() {
+            @Override
+            public void accept( Person person ) {
+                System.out.println( person+" " );
             }
         } );
 
@@ -35,16 +40,16 @@ public class PersonTest {
         Printer printToConsole = () -> people.forEach( System.out::println );
         printToConsole.printToConsole();
 
-        printConditionally( people, (p1) -> p1.getLastName().startsWith("M") );
+        performConditionally( people, ( p1) -> p1.getLastName().startsWith("M"), p1-> System.out.println(""+p1) );
 
 
 
     }
 
-    private static void printConditionally( List<Person> people , FilterCondition c) {
+    private static void performConditionally( List<Person> people , FilterCondition c, Consumer<Person> consumer) {
         for(Person person:people){
             if(c.test(person))
-                System.out.println(person);
+                consumer.accept( person );
         }
     }
 

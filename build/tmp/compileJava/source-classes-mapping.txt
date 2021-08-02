@@ -25,3 +25,5 @@ PersonTest.java
  PersonTest$3
 FunctionInterfaceTest.java
  FunctionInterfaceTest
+LambdaExceptionHandling.java
+ LambdaExceptionHandling

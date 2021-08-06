@@ -44,3 +44,50 @@ isEmpty - O(1)
 ###Difference between ArrayList and LinkedList :-
 ArrayList and LinkedList both implements List interface and maintains insertion order. Both are non synchronized classes.
 Previously, Java’s Arrays.sort method used Quicksort for arrays of primitives and Merge sort for arrays of objects. In the latest versions of Java, Arrays.sort method and Collection.sort() uses Timsort.
+
+
+
+###Lambda expressions :-
+   
+   Why lambdas?
+   -> Enable to treat functionality as a method argument, or code as data.
+   -> A function that can be created without belonging to any class.
+   -> A lambda expression can be passed around as if it was an object and executed on demand.
+   -> It enables to write a method in a more readable and concise manner
+   -> It enables functional programming
+   
+   
+   ** Type of a lambda expression is a interface
+   ** Interface should have only one abstract method is called functional interface
+   ** It is good practice to add if it is for lambda
+   ** We dont need to create everytime interfaces, we have a set of function interfaces defined in util.Function package to implement lambda expressions
+   ** Lambda expressions are tempting to say syntactic sugar on anonymous inner class
+   ** Lambda expressions is not a shortcut for inner classes
+   ** Lambda expressions does not have this own context it shares the parent context where as inner anonymous class has its own contexts
+   
+   Exception Handling in Lambdas :-
+   
+   we can handle exception where we define our lambda expressions but that looks clumsy
+   In order to avoid clumsiness we can wrap our lambda expression into another lambda and handle exception there
+   
+   
+   Method References :-
+   
+   ==> Method reference is an alternative way of writing lambda expressions
+   syntax :-
+       ==> Static method className::methodName
+       ==> instance method instance::MethodName
+   
+   
+   
+   Java 8 introduces streams to iterate over collection
+   External Iterators - for loop and foreach loop
+   Internal Iterators are being introduced in java8 (streams)
+   
+   Collections has default stream method,
+   if we want to process a stream of data we can use stream otherwise we can use parallel stream.
+   parallel stream does not preserve order of the data. It will use all the cores present in the system to execute the code.
+   
+   
+   Best Practice :-
+   Use @FunctionalInterface, in case of lambda expression interfaces

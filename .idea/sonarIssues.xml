@@ -23,6 +23,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ClosureExamples.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/CollectionIterationExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/Condition.java">
           <value>
             <set />
@@ -49,6 +64,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/LambdaExpressions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/MethodReference.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Notes">
           <value>
             <set />
           </value>
@@ -203,12 +228,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/hbaseconnector/HBaseConnector/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../workspace/Gap/hbaseconnector/HBaseConnector/src/main/java/com/gap/augmentation/constant/BusinessUnits.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../workspace/Gap/hbaseconnector/HBaseConnector/src/main/java/com/gap/augmentation/constant/PricingConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/hbaseconnector/HBaseConnector/src/main/java/com/gap/augmentation/controller/EventController.java">
           <value>
             <set />
           </value>
@@ -253,7 +288,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/hbaseconnector/HBaseConnector/src/main/java/com/gap/augmentation/service/dto/ProductTypeDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/hbaseconnector/HBaseConnector/src/main/java/com/gap/augmentation/service/dto/StyleColorPriceDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/hbaseconnector/HBaseConnector/src/test/java/com/gap/augmentation/mapred/mapper/EuPriceExtractMapperTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../workspace/Gap/hbaseconnector/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../workspace/Gap/hbaseconnector/gradle.properties">
           <value>
             <set />
           </value>

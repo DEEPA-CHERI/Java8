@@ -8,6 +8,7 @@ public class PersonTest {
 
     public static void main( String[] args ) {
         List<Person> people = Arrays.asList(new Person( "Harika", "Dethadi", 25 ),
+               new Person( "Harika", "Dethadi", 25 ),
                 new Person( "Abhi", "S", 30 ),
                 new Person( "Lasya", "Manjkunath", 40 ),
                 new Person( "Noel", "Sean", 36 ));
@@ -42,6 +43,7 @@ public class PersonTest {
 
         performConditionally( people, ( p1) -> p1.getLastName().startsWith("M"), p1-> System.out.println(""+p1) );
 
+        System.out.println(people.get(0).equals( people.get(1) ));
 
 
     }

@@ -1,29 +1,36 @@
 CustomComparator.java
  CustomComparator
-TestCollection.java
- TestCollection
-FilterCondition.java
- FilterCondition
-Printer.java
- Printer
-Sort.java
- Sort
-Greeting.java
- Greeting
-Person.java
- Person
 TypeInferenceExample.java
  TypeInferenceExample
  TypeInferenceExample$StringUtil
 LambdaExpressions.java
  LambdaExpressions
  LambdaExpressions$1
+ClosureExamples.java
+ ClosureExamples
+ Process
+TestCollection.java
+ TestCollection
+FunctionInterfaceTest.java
+ FunctionInterfaceTest
+LambdaExceptionHandling.java
+ LambdaExceptionHandling
+Printer.java
+ Printer
+Sort.java
+ Sort
+Greeting.java
+ Greeting
 PersonTest.java
  PersonTest
  PersonTest$1
  PersonTest$2
  PersonTest$3
-FunctionInterfaceTest.java
- FunctionInterfaceTest
-LambdaExceptionHandling.java
- LambdaExceptionHandling
+MethodReference.java
+ MethodReference
+FilterCondition.java
+ FilterCondition
+Person.java
+ Person
+CollectionIterationExample.java
+ CollectionIterationExample

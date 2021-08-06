@@ -13,7 +13,7 @@ public class LambdaExceptionHandling {
         } catch (Exception e) {
             e.printStackTrace();
         }
-
+    return consumer;
     }
     private static void process( int[] somenumbers, int key, BiConsumer<Integer, Integer> consumer ) {
         for (int i : somenumbers) {
